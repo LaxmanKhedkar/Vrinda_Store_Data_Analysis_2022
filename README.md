@@ -7,7 +7,7 @@ Welcome to the Vrinda Store Sales Analysis project repository! This project aims
 
 
 ## OBJECTIVE
-
+ 
 Our objective is to analyze the annual sales data for 2022 and uncover key trends and patterns that can help improve sales strategies, optimize resource allocation, and enhance overall business performance.
 
 ## METHODOLOGY
